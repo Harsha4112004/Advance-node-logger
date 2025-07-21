@@ -20,7 +20,7 @@ To use the Winston logger, you can import it in your code and use it as follows:
 
 First, open your index.js file and copy the contents of the usage.js file from this repository into it.
 
-This will log the messages to the console and the file app.log. The morgan package is used to format the log messages and the stream option is used to write the log messages to the console.
+This will log the messages to the console and the file app.log. The morgan package is used to format the log messages.
 - Note:
   The morgan format must be declared after initializing the Express app with express().
 
