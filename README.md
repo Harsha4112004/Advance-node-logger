@@ -1,5 +1,5 @@
 # Advance-node-logger
-A robust and extensible logging solution for Node.js applications, combining the power of Winston for custom, multi-transport logging and Morgan for HTTP request logging. Ideal for production-ready apps that need clean, structured, and customizable logs.
+A extensible logging solution for Node.js applications, combining the power of Winston for custom, multi-transport logging and Morgan for HTTP request logging. Ideal for production-ready apps that need clean, structured, and customizable logs.
 
 ## Introduction
 Node Logger is a powerful tool that allows you to log messages to the console, file, or other destinations. It provides a simple and flexible API for logging messages, making it easy to debug and monitor your Node.js applications.
